@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817525376827",
+    "project_id": "recognition-76442",
+    "storage_bucket": "recognition-76442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817525376827:android:53dd39ddfb4bdc8cab591e",
+        "android_client_info": {
+          "package_name": "com.example.recognation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817525376827-39pdoi3kc3u55ljidnvelce8nge01ioq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtZcQ6i5JTQmEwvAbvPPVNAfA5SXFuqyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817525376827-39pdoi3kc3u55ljidnvelce8nge01ioq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
